@@ -868,7 +868,7 @@
      font-weight: 300;
      padding: 12px 5px;
      position: relative;
-     border-bottom: solid #eee 1px;
+     border-bottom: solid #ffffff 1px;
 }
  .main-menu ul>li .sub-down li a::before {
 }
@@ -894,7 +894,7 @@
      visibility: hidden;
      width: 240px;
      z-index: 999;
-     background: #fff;
+     background: #5c5c5c;
      -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
      box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
 }
